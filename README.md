@@ -1,4 +1,4 @@
-# Shubham Patil — Developer Portfolio
+# Shubham Gade — Developer Portfolio
 
 A modern, animated portfolio site for a Java Full Stack Developer, built with Next.js 16 (App Router), TypeScript, Tailwind CSS v4, and Framer Motion.
 
