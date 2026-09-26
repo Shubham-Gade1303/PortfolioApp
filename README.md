@@ -10,6 +10,7 @@ A modern, animated portfolio site for a Java Full Stack Developer, built with Ne
 - **Framework:** Next.js 16 (App Router, Server Components)
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS v4
+
 - **Animation:** Framer Motion
 - **Icons:** lucide-react + react-icons (for brand logos)
 - **Fonts:** Space Grotesk (display), Inter (body), JetBrains Mono (code/labels) — self-hosted via `@fontsource`
