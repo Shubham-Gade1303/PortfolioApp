@@ -15,6 +15,9 @@ A modern, animated portfolio site for a Java Full Stack Developer, built with Ne
 
 ## Project structure
 
+
+
+
 ```
 
 src/
