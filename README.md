@@ -43,6 +43,10 @@ public/
 
 ## Getting started
 
+
+
+npm dev 
+
 ```bash
 npm install
 npm run dev
